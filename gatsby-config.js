@@ -3,8 +3,8 @@ const path  = require('path');
 module.exports = {
   siteMetadata: {
     title: `Neruoscience Hypnosis Insitute`,
-    description: `Reveal the unseen shackles that stoped from unleasing your full potential`,
-    author: `Emanuel Benedic`,
+    description: `Reveal the unseen shackles whatever`,
+    author: `Emanuel`,
     companyName: 'Neurohypnosis Therapy',
     menuLinks: [
       {
